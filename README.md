@@ -1,1 +1,1 @@
-# Js-Color-Creator
+# Color-Creator
