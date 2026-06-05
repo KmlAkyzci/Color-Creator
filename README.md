@@ -28,17 +28,3 @@ Uygulamayı tarayıcınızda anlık olarak deneyimleyin:
 
 ---
 
-## 📸 Ekran Görüntüleri
-*(Projenizin ekran görüntüsünü veya bir GIF'ini buraya eklemek, projenin incelenme oranını %80 artırır!)*
-
-
-
----
-
-## ⚙️ Kurulum ve Yerel Çalıştırma
-
-Projeyi kendi bilgisayarınızda çalıştırmak isterseniz aşağıdaki adımları takip edebilirsiniz:
-
-1. **Projeyi Klonlayın:**
-```bash
-   git clone [https://github.com/KmlAkyzci/Color-Creator.git](https://github.com/KmlAkyzci/Color-Creator.git)
